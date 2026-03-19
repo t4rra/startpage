@@ -1,8 +1,4 @@
 # Startpage <!-- omit in toc --> 
-
-[Live preview (no weather as to not leak API key)](https://startpage.easun.me)
-
-
 ![startpage](preview.gif)
 
 
@@ -28,7 +24,7 @@
 
 #### Basic Setup
 
-1. Grab the latest [release](https://github.com/eaaasun/startpage/releases/latest)
+1. Grab the latest [release](https://github.com/t4rra/startpage/releases/latest)
 2. Unzip files and move to a convenient location (e.g. Documents)
 3. Go into your browser settings (Firefox: `about:preferences`, Chrome/chromium-based: `chrome://settings/`)
 4. Set the homepage to `file:///[PATH TO STARTPAGE]/index.html` (example: `file:///D:/documents/startpage/index.html`)
